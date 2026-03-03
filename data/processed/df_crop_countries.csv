@@ -1,0 +1,27 @@
+country_ISO3,crop,country_name
+ARG,tea only,Argentina
+BGD,tea only,Bangladesh
+BRA,coffee only,Brazil
+CHN,tea only,China
+CIV,coffee only,Côte d'Ivoire
+COL,coffee only,Colombia
+CRI,coffee only,Costa Rica
+ETH,coffee only,Ethiopia
+GIN,coffee only,Guinea
+GTM,coffee only,Guatemala
+HND,coffee only,Honduras
+IDN,both,Indonesia
+IND,both,India
+IRN,tea only,Iran
+JPN,tea only,Japan
+KEN,tea only,Kenya
+LKA,tea only,Sri Lanka
+MEX,coffee only,Mexico
+MWI,tea only,Malawi
+NIC,coffee only,Nicaragua
+PER,coffee only,Peru
+RWA,tea only,Rwanda
+TUR,tea only,Türkiye
+TZA,tea only,Tanzania
+UGA,both,Uganda
+VNM,both,Vietnam
