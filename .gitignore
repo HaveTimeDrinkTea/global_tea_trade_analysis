@@ -205,3 +205,33 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+###### added by Pei
+# System files (Mac specific)
+.DS_Store
+*.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.secrets
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac
+*.localized
+
+# Linux
+.directory
+
+# Data files (if you have large datasets e.g. >10MB)
+#data/
+#*.csv
+#*.json
+#*.parquet
+#*.feather
