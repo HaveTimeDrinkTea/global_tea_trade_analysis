@@ -1,0 +1,651 @@
+country_ISO3,year,temperature,precipitation,crop
+ARG,2000,14.45,721.03,tea only
+ARG,2001,15.08,716.55,tea only
+ARG,2002,14.84,757.75,tea only
+ARG,2003,15.23,593.14,tea only
+ARG,2004,15.24,576.61,tea only
+ARG,2005,14.9,574.79,tea only
+ARG,2006,15.46,597.45,tea only
+ARG,2007,14.44,586.57,tea only
+ARG,2008,15.33,535.56,tea only
+ARG,2009,15.42,537.03,tea only
+ARG,2010,14.9,553.24,tea only
+ARG,2011,15.15,565.2,tea only
+ARG,2012,15.61,622.43,tea only
+ARG,2013,15.4,520.19,tea only
+ARG,2014,15.41,700.3,tea only
+ARG,2015,15.51,648.89,tea only
+ARG,2016,14.94,660.45,tea only
+ARG,2017,15.57,633.1,tea only
+ARG,2018,15.27,595.47,tea only
+ARG,2019,15.22,588.62,tea only
+ARG,2020,15.55,497.52,tea only
+ARG,2021,15.42,536.52,tea only
+ARG,2022,15.13,479.21,tea only
+ARG,2023,15.95,565.34,tea only
+ARG,2024,15.56,600.01,tea only
+BGD,2000,25.28,2332.93,tea only
+BGD,2001,25.86,2252.27,tea only
+BGD,2002,25.76,2301.65,tea only
+BGD,2003,25.78,2150.53,tea only
+BGD,2004,25.7,2214.81,tea only
+BGD,2005,25.97,1991.46,tea only
+BGD,2006,26.19,1901.93,tea only
+BGD,2007,25.97,2456.52,tea only
+BGD,2008,25.74,2155.42,tea only
+BGD,2009,26.49,1957.16,tea only
+BGD,2010,26.38,2193.72,tea only
+BGD,2011,25.74,1994.39,tea only
+BGD,2012,25.47,1947.81,tea only
+BGD,2013,25.18,1996.31,tea only
+BGD,2014,25.65,1770.36,tea only
+BGD,2015,25.45,2486.1,tea only
+BGD,2016,25.88,2076.43,tea only
+BGD,2017,25.68,2681.73,tea only
+BGD,2018,25.3,1770.57,tea only
+BGD,2019,25.65,1989.33,tea only
+BGD,2020,25.42,2428.5,tea only
+BGD,2021,25.76,2092.51,tea only
+BGD,2022,25.75,1757.35,tea only
+BGD,2023,26.02,2074.6,tea only
+BGD,2024,26.18,2020.96,tea only
+BRA,2000,25.12,1955.68,coffee only
+BRA,2001,25.4,1773.52,coffee only
+BRA,2002,25.67,1810.1,coffee only
+BRA,2003,25.45,1741.13,coffee only
+BRA,2004,25.38,1830.7,coffee only
+BRA,2005,25.63,1834.38,coffee only
+BRA,2006,25.45,1874.41,coffee only
+BRA,2007,25.57,1754.49,coffee only
+BRA,2008,25.28,1917.91,coffee only
+BRA,2009,25.49,1957.9,coffee only
+BRA,2010,25.7,1771.11,coffee only
+BRA,2011,25.4,1883.53,coffee only
+BRA,2012,25.6,1667.72,coffee only
+BRA,2013,25.53,1837.39,coffee only
+BRA,2014,25.7,1748.77,coffee only
+BRA,2015,25.99,1582.52,coffee only
+BRA,2016,25.78,1614.47,coffee only
+BRA,2017,25.74,1654.32,coffee only
+BRA,2018,25.57,1793.4,coffee only
+BRA,2019,25.9,1686.49,coffee only
+BRA,2020,25.85,1724.36,coffee only
+BRA,2021,25.53,1781.16,coffee only
+BRA,2022,25.47,1710.51,coffee only
+BRA,2023,25.92,1588.1,coffee only
+BRA,2024,26.02,1676.33,coffee only
+CHN,2000,7.25,601.03,tea only
+CHN,2001,7.61,577.3,tea only
+CHN,2002,7.84,633.56,tea only
+CHN,2003,7.53,599.3,tea only
+CHN,2004,7.76,571.24,tea only
+CHN,2005,7.51,599.06,tea only
+CHN,2006,7.99,573.27,tea only
+CHN,2007,8.19,579.08,tea only
+CHN,2008,7.64,614.37,tea only
+CHN,2009,7.82,558.89,tea only
+CHN,2010,7.58,641.21,tea only
+CHN,2011,7.37,532.1,tea only
+CHN,2012,7.1,646.1,tea only
+CHN,2013,7.76,614.5,tea only
+CHN,2014,7.72,615.12,tea only
+CHN,2015,7.99,633.23,tea only
+CHN,2016,7.95,674.15,tea only
+CHN,2017,8.11,626.81,tea only
+CHN,2018,7.78,637.29,tea only
+CHN,2019,8.04,615.63,tea only
+CHN,2020,7.95,646.74,tea only
+CHN,2021,8.23,654.33,tea only
+CHN,2022,8.13,599.98,tea only
+CHN,2023,8.41,608.68,tea only
+CHN,2024,8.52,661.09,tea only
+CIV,2000,26.62,1288.17,coffee only
+CIV,2001,26.69,1397.68,coffee only
+CIV,2002,26.87,1288.97,coffee only
+CIV,2003,26.87,1406.32,coffee only
+CIV,2004,26.86,1304.23,coffee only
+CIV,2005,27.05,1260.02,coffee only
+CIV,2006,26.8,1376.0,coffee only
+CIV,2007,26.89,1258.91,coffee only
+CIV,2008,26.57,1322.9,coffee only
+CIV,2009,26.88,1357.96,coffee only
+CIV,2010,27.18,1575.21,coffee only
+CIV,2011,26.9,1342.14,coffee only
+CIV,2012,26.6,1235.09,coffee only
+CIV,2013,26.83,1166.54,coffee only
+CIV,2014,26.9,1449.73,coffee only
+CIV,2015,27.03,1126.3,coffee only
+CIV,2016,27.31,1253.82,coffee only
+CIV,2017,27.17,1145.19,coffee only
+CIV,2018,27.08,1456.14,coffee only
+CIV,2019,26.94,1427.39,coffee only
+CIV,2020,27.21,1323.07,coffee only
+CIV,2021,27.37,1364.36,coffee only
+CIV,2022,26.81,1399.99,coffee only
+CIV,2023,27.32,1283.01,coffee only
+CIV,2024,27.38,1238.89,coffee only
+COL,2000,24.55,2713.15,coffee only
+COL,2001,24.94,2400.27,coffee only
+COL,2002,25.08,2713.88,coffee only
+COL,2003,25.14,2641.11,coffee only
+COL,2004,24.92,2614.35,coffee only
+COL,2005,25.03,2694.63,coffee only
+COL,2006,24.9,2728.14,coffee only
+COL,2007,24.84,2803.51,coffee only
+COL,2008,24.55,3004.62,coffee only
+COL,2009,25.09,2425.83,coffee only
+COL,2010,25.25,2921.88,coffee only
+COL,2011,24.91,3083.66,coffee only
+COL,2012,25.12,2406.02,coffee only
+COL,2013,25.31,2433.05,coffee only
+COL,2014,25.45,2365.71,coffee only
+COL,2015,25.74,2085.08,coffee only
+COL,2016,25.66,2395.85,coffee only
+COL,2017,25.1,2638.84,coffee only
+COL,2018,25.03,2501.32,coffee only
+COL,2019,25.35,2424.97,coffee only
+COL,2020,25.28,2493.24,coffee only
+COL,2021,24.9,2693.61,coffee only
+COL,2022,24.7,2855.97,coffee only
+COL,2023,25.32,2468.03,coffee only
+COL,2024,25.58,2561.26,coffee only
+CRI,2000,24.42,2659.01,coffee only
+CRI,2001,24.82,2704.98,coffee only
+CRI,2002,24.95,3088.1,coffee only
+CRI,2003,25.03,3287.9,coffee only
+CRI,2004,24.84,3161.74,coffee only
+CRI,2005,24.74,3041.44,coffee only
+CRI,2006,24.91,2908.4,coffee only
+CRI,2007,24.69,3111.38,coffee only
+CRI,2008,24.68,3594.92,coffee only
+CRI,2009,25.11,2739.31,coffee only
+CRI,2010,24.89,3524.36,coffee only
+CRI,2011,24.75,2996.34,coffee only
+CRI,2012,24.73,2188.0,coffee only
+CRI,2013,24.85,2406.59,coffee only
+CRI,2014,25.02,2853.3,coffee only
+CRI,2015,25.06,2715.65,coffee only
+CRI,2016,24.96,2606.99,coffee only
+CRI,2017,24.85,2668.67,coffee only
+CRI,2018,24.45,3489.39,coffee only
+CRI,2019,24.74,3268.85,coffee only
+CRI,2020,24.89,3261.62,coffee only
+CRI,2021,24.72,3106.96,coffee only
+CRI,2022,24.59,2801.92,coffee only
+CRI,2023,25.41,2445.16,coffee only
+CRI,2024,25.21,3299.72,coffee only
+ETH,2000,23.22,857.49,coffee only
+ETH,2001,23.33,814.13,coffee only
+ETH,2002,23.7,736.91,coffee only
+ETH,2003,23.46,781.87,coffee only
+ETH,2004,23.46,821.35,coffee only
+ETH,2005,23.53,857.95,coffee only
+ETH,2006,23.44,875.58,coffee only
+ETH,2007,23.31,853.83,coffee only
+ETH,2008,23.27,852.93,coffee only
+ETH,2009,23.92,774.65,coffee only
+ETH,2010,23.69,858.67,coffee only
+ETH,2011,23.47,846.8,coffee only
+ETH,2012,23.41,879.96,coffee only
+ETH,2013,23.73,896.71,coffee only
+ETH,2014,23.5,920.92,coffee only
+ETH,2015,23.92,838.29,coffee only
+ETH,2016,23.93,916.86,coffee only
+ETH,2017,23.62,916.26,coffee only
+ETH,2018,23.32,904.61,coffee only
+ETH,2019,23.41,1000.55,coffee only
+ETH,2020,23.3,941.61,coffee only
+ETH,2021,23.41,923.15,coffee only
+ETH,2022,23.48,927.69,coffee only
+ETH,2023,23.75,910.78,coffee only
+ETH,2024,24.17,985.89,coffee only
+GIN,2000,25.53,1798.82,coffee only
+GIN,2001,25.79,1686.61,coffee only
+GIN,2002,26.13,1614.36,coffee only
+GIN,2003,25.93,1876.71,coffee only
+GIN,2004,26.09,1820.48,coffee only
+GIN,2005,26.13,1793.17,coffee only
+GIN,2006,25.85,1926.74,coffee only
+GIN,2007,25.99,1634.94,coffee only
+GIN,2008,25.77,1820.61,coffee only
+GIN,2009,25.87,1739.39,coffee only
+GIN,2010,26.24,2018.47,coffee only
+GIN,2011,26.01,1724.73,coffee only
+GIN,2012,25.65,1821.97,coffee only
+GIN,2013,25.92,1842.54,coffee only
+GIN,2014,25.89,1731.41,coffee only
+GIN,2015,26.08,1880.49,coffee only
+GIN,2016,26.31,1792.34,coffee only
+GIN,2017,26.23,1690.89,coffee only
+GIN,2018,26.16,1775.11,coffee only
+GIN,2019,25.88,1798.76,coffee only
+GIN,2020,26.33,1765.56,coffee only
+GIN,2021,26.69,1800.67,coffee only
+GIN,2022,25.96,2012.36,coffee only
+GIN,2023,26.59,1892.39,coffee only
+GIN,2024,26.6,1881.48,coffee only
+GTM,2000,23.3,2143.44,coffee only
+GTM,2001,23.56,2186.08,coffee only
+GTM,2002,23.7,2071.64,coffee only
+GTM,2003,23.81,1870.93,coffee only
+GTM,2004,23.73,2048.5,coffee only
+GTM,2005,23.7,2360.73,coffee only
+GTM,2006,23.64,2388.64,coffee only
+GTM,2007,23.58,2103.8,coffee only
+GTM,2008,23.55,2283.09,coffee only
+GTM,2009,23.92,1957.44,coffee only
+GTM,2010,23.34,2478.21,coffee only
+GTM,2011,23.73,2431.96,coffee only
+GTM,2012,23.85,1970.79,coffee only
+GTM,2013,23.7,2672.54,coffee only
+GTM,2014,23.67,2187.79,coffee only
+GTM,2015,24.16,1969.27,coffee only
+GTM,2016,24.23,2069.5,coffee only
+GTM,2017,24.05,2085.72,coffee only
+GTM,2018,23.53,1986.75,coffee only
+GTM,2019,24.0,1773.91,coffee only
+GTM,2020,24.32,2277.6,coffee only
+GTM,2021,24.07,2034.68,coffee only
+GTM,2022,23.74,2452.33,coffee only
+GTM,2023,24.38,1969.94,coffee only
+GTM,2024,24.58,2512.08,coffee only
+HND,2000,24.32,1822.44,coffee only
+HND,2001,24.66,1828.29,coffee only
+HND,2002,24.81,1688.56,coffee only
+HND,2003,24.91,1729.79,coffee only
+HND,2004,24.74,1848.7,coffee only
+HND,2005,24.72,1825.28,coffee only
+HND,2006,24.76,2256.13,coffee only
+HND,2007,24.72,1696.63,coffee only
+HND,2008,24.52,2092.92,coffee only
+HND,2009,24.86,1709.01,coffee only
+HND,2010,24.47,1838.52,coffee only
+HND,2011,24.63,1911.78,coffee only
+HND,2012,24.77,1806.12,coffee only
+HND,2013,24.78,1941.01,coffee only
+HND,2014,24.77,1726.77,coffee only
+HND,2015,25.15,1746.44,coffee only
+HND,2016,25.2,1836.27,coffee only
+HND,2017,24.99,1958.26,coffee only
+HND,2018,24.63,1718.56,coffee only
+HND,2019,25.04,1470.14,coffee only
+HND,2020,25.23,1914.1,coffee only
+HND,2021,25.04,1824.41,coffee only
+HND,2022,24.77,1961.94,coffee only
+HND,2023,25.4,1829.24,coffee only
+HND,2024,25.54,2001.48,coffee only
+IDN,2000,25.86,2925.32,both
+IDN,2001,25.92,2865.39,both
+IDN,2002,26.06,2586.5,both
+IDN,2003,25.92,2884.98,both
+IDN,2004,25.92,2629.22,both
+IDN,2005,25.94,2729.63,both
+IDN,2006,25.83,2656.42,both
+IDN,2007,25.85,2854.02,both
+IDN,2008,25.71,2996.57,both
+IDN,2009,25.98,2760.29,both
+IDN,2010,26.09,3271.38,both
+IDN,2011,25.88,2899.83,both
+IDN,2012,25.99,2850.16,both
+IDN,2013,26.06,2893.53,both
+IDN,2014,26.04,2595.84,both
+IDN,2015,26.12,2475.16,both
+IDN,2016,26.23,2934.55,both
+IDN,2017,26.04,3011.46,both
+IDN,2018,26.05,2813.27,both
+IDN,2019,26.2,2500.24,both
+IDN,2020,26.2,2980.78,both
+IDN,2021,26.01,3067.34,both
+IDN,2022,25.95,3146.39,both
+IDN,2023,26.16,2676.72,both
+IDN,2024,26.38,2997.81,both
+IND,2000,24.81,1043.41,both
+IND,2001,24.93,1025.47,both
+IND,2002,25.2,908.97,both
+IND,2003,24.94,1055.79,both
+IND,2004,25.02,1030.4,both
+IND,2005,24.77,1116.64,both
+IND,2006,25.03,1190.24,both
+IND,2007,25.06,1136.08,both
+IND,2008,24.82,1156.62,both
+IND,2009,25.57,1001.0,both
+IND,2010,25.5,1251.78,both
+IND,2011,24.88,1147.15,both
+IND,2012,24.84,1067.39,both
+IND,2013,24.71,1255.45,both
+IND,2014,24.86,1065.91,both
+IND,2015,24.98,1124.91,both
+IND,2016,25.36,1120.31,both
+IND,2017,25.23,1159.6,both
+IND,2018,25.1,1019.78,both
+IND,2019,25.03,1322.77,both
+IND,2020,24.87,1243.17,both
+IND,2021,25.07,1216.65,both
+IND,2022,25.18,1299.86,both
+IND,2023,25.03,1163.62,both
+IND,2024,25.43,1253.84,both
+IRN,2000,18.37,192.96,tea only
+IRN,2001,18.99,162.37,tea only
+IRN,2002,18.65,204.94,tea only
+IRN,2003,18.34,232.67,tea only
+IRN,2004,18.62,256.07,tea only
+IRN,2005,18.36,208.16,tea only
+IRN,2006,18.66,231.93,tea only
+IRN,2007,18.29,204.45,tea only
+IRN,2008,18.39,142.08,tea only
+IRN,2009,18.58,236.88,tea only
+IRN,2010,19.5,146.79,tea only
+IRN,2011,18.27,220.63,tea only
+IRN,2012,18.21,218.34,tea only
+IRN,2013,18.82,199.54,tea only
+IRN,2014,18.44,201.93,tea only
+IRN,2015,18.89,203.1,tea only
+IRN,2016,19.03,186.31,tea only
+IRN,2017,18.81,193.05,tea only
+IRN,2018,19.33,221.71,tea only
+IRN,2019,18.79,277.14,tea only
+IRN,2020,18.38,263.49,tea only
+IRN,2021,19.56,128.5,tea only
+IRN,2022,19.29,172.99,tea only
+IRN,2023,19.61,199.18,tea only
+IRN,2024,19.18,235.19,tea only
+JPN,2000,11.8,1532.81,tea only
+JPN,2001,11.5,1555.4,tea only
+JPN,2002,11.79,1563.66,tea only
+JPN,2003,11.47,1721.23,tea only
+JPN,2004,12.38,1681.14,tea only
+JPN,2005,11.49,1392.27,tea only
+JPN,2006,11.69,1798.05,tea only
+JPN,2007,12.15,1465.83,tea only
+JPN,2008,11.82,1488.65,tea only
+JPN,2009,11.89,1652.14,tea only
+JPN,2010,12.16,1776.59,tea only
+JPN,2011,11.7,1730.52,tea only
+JPN,2012,11.5,1721.61,tea only
+JPN,2013,11.92,1703.49,tea only
+JPN,2014,11.67,1720.38,tea only
+JPN,2015,12.2,1768.84,tea only
+JPN,2016,12.32,1826.32,tea only
+JPN,2017,11.68,1510.53,tea only
+JPN,2018,12.26,1813.81,tea only
+JPN,2019,12.44,1554.02,tea only
+JPN,2020,12.44,1777.18,tea only
+JPN,2021,12.47,1794.72,tea only
+JPN,2022,12.44,1602.75,tea only
+JPN,2023,13.0,1640.03,tea only
+JPN,2024,13.11,1791.61,tea only
+KEN,2000,24.78,498.71,tea only
+KEN,2001,25.07,638.34,tea only
+KEN,2002,25.23,814.71,tea only
+KEN,2003,25.22,650.27,tea only
+KEN,2004,25.04,658.38,tea only
+KEN,2005,24.95,545.36,tea only
+KEN,2006,25.07,795.37,tea only
+KEN,2007,24.96,711.56,tea only
+KEN,2008,24.91,703.07,tea only
+KEN,2009,25.49,682.9,tea only
+KEN,2010,25.28,676.03,tea only
+KEN,2011,25.12,720.17,tea only
+KEN,2012,24.86,825.07,tea only
+KEN,2013,25.1,765.82,tea only
+KEN,2014,25.09,627.24,tea only
+KEN,2015,25.15,808.38,tea only
+KEN,2016,25.48,712.45,tea only
+KEN,2017,25.2,1061.06,tea only
+KEN,2018,24.84,835.18,tea only
+KEN,2019,25.26,1146.84,tea only
+KEN,2020,25.28,809.21,tea only
+KEN,2021,25.17,1028.71,tea only
+KEN,2022,25.2,933.64,tea only
+KEN,2023,25.55,1050.32,tea only
+KEN,2024,25.23,726.63,tea only
+LKA,2000,27.07,1767.84,tea only
+LKA,2001,27.22,1491.63,tea only
+LKA,2002,27.32,1715.88,tea only
+LKA,2003,27.29,1651.9,tea only
+LKA,2004,27.04,1936.69,tea only
+LKA,2005,27.2,1702.3,tea only
+LKA,2006,27.16,2121.58,tea only
+LKA,2007,27.1,1596.9,tea only
+LKA,2008,27.04,1996.72,tea only
+LKA,2009,27.43,1561.43,tea only
+LKA,2010,27.44,1841.58,tea only
+LKA,2011,27.26,1569.93,tea only
+LKA,2012,27.46,1709.62,tea only
+LKA,2013,27.18,1520.75,tea only
+LKA,2014,27.35,1856.7,tea only
+LKA,2015,27.32,2320.14,tea only
+LKA,2016,27.69,1424.97,tea only
+LKA,2017,27.42,1681.7,tea only
+LKA,2018,27.32,1784.02,tea only
+LKA,2019,27.65,2002.67,tea only
+LKA,2020,27.62,1614.89,tea only
+LKA,2021,27.38,2037.78,tea only
+LKA,2022,27.2,1838.02,tea only
+LKA,2023,27.41,2237.04,tea only
+LKA,2024,27.86,1858.65,tea only
+MEX,2000,21.3,724.83,coffee only
+MEX,2001,21.11,690.95,coffee only
+MEX,2002,21.2,732.16,coffee only
+MEX,2003,21.31,776.15,coffee only
+MEX,2004,21.08,843.44,coffee only
+MEX,2005,21.42,726.88,coffee only
+MEX,2006,21.6,815.63,coffee only
+MEX,2007,21.18,782.71,coffee only
+MEX,2008,21.2,797.0,coffee only
+MEX,2009,21.58,685.77,coffee only
+MEX,2010,20.96,827.6,coffee only
+MEX,2011,21.72,692.87,coffee only
+MEX,2012,21.92,709.7,coffee only
+MEX,2013,21.32,930.56,coffee only
+MEX,2014,21.46,864.42,coffee only
+MEX,2015,21.68,764.45,coffee only
+MEX,2016,21.94,801.47,coffee only
+MEX,2017,22.17,795.24,coffee only
+MEX,2018,21.77,780.76,coffee only
+MEX,2019,21.9,720.36,coffee only
+MEX,2020,22.21,691.32,coffee only
+MEX,2021,21.92,837.38,coffee only
+MEX,2022,21.81,748.03,coffee only
+MEX,2023,22.23,623.55,coffee only
+MEX,2024,22.68,788.45,coffee only
+MWI,2000,22.26,1140.06,tea only
+MWI,2001,22.5,1158.72,tea only
+MWI,2002,22.72,986.9,tea only
+MWI,2003,22.73,1002.84,tea only
+MWI,2004,22.63,1156.82,tea only
+MWI,2005,23.42,880.6,tea only
+MWI,2006,22.67,979.38,tea only
+MWI,2007,22.71,1095.19,tea only
+MWI,2008,22.54,1081.37,tea only
+MWI,2009,22.59,1101.74,tea only
+MWI,2010,23.08,902.93,tea only
+MWI,2011,22.46,1152.15,tea only
+MWI,2012,22.53,1025.15,tea only
+MWI,2013,22.47,1025.91,tea only
+MWI,2014,22.55,999.27,tea only
+MWI,2015,22.87,918.16,tea only
+MWI,2016,22.85,977.52,tea only
+MWI,2017,22.65,1161.98,tea only
+MWI,2018,22.62,1169.74,tea only
+MWI,2019,22.85,1401.25,tea only
+MWI,2020,22.85,1058.33,tea only
+MWI,2021,22.79,798.62,tea only
+MWI,2022,22.53,1227.01,tea only
+MWI,2023,22.94,1156.89,tea only
+MWI,2024,23.24,973.27,tea only
+NIC,2000,25.5,2129.55,coffee only
+NIC,2001,25.86,2117.72,coffee only
+NIC,2002,25.99,2169.47,coffee only
+NIC,2003,26.1,2364.67,coffee only
+NIC,2004,25.9,2509.13,coffee only
+NIC,2005,25.86,2405.15,coffee only
+NIC,2006,25.96,2461.52,coffee only
+NIC,2007,25.86,2248.51,coffee only
+NIC,2008,25.69,2723.64,coffee only
+NIC,2009,26.05,2171.87,coffee only
+NIC,2010,25.78,2620.77,coffee only
+NIC,2011,25.75,2357.52,coffee only
+NIC,2012,25.81,2146.28,coffee only
+NIC,2013,25.9,2124.0,coffee only
+NIC,2014,26.0,2093.11,coffee only
+NIC,2015,26.21,2058.9,coffee only
+NIC,2016,26.2,2146.47,coffee only
+NIC,2017,26.07,2426.1,coffee only
+NIC,2018,25.69,2241.7,coffee only
+NIC,2019,26.04,1972.99,coffee only
+NIC,2020,26.21,2559.44,coffee only
+NIC,2021,26.03,2206.61,coffee only
+NIC,2022,25.83,2438.96,coffee only
+NIC,2023,26.52,2234.29,coffee only
+NIC,2024,26.56,2409.99,coffee only
+PER,2000,19.39,1684.58,coffee only
+PER,2001,19.32,1749.32,coffee only
+PER,2002,19.66,1695.84,coffee only
+PER,2003,19.63,1764.28,coffee only
+PER,2004,19.72,1752.64,coffee only
+PER,2005,19.59,1536.04,coffee only
+PER,2006,19.72,1809.69,coffee only
+PER,2007,19.19,1697.16,coffee only
+PER,2008,19.36,1685.59,coffee only
+PER,2009,19.73,1711.83,coffee only
+PER,2010,19.66,1407.81,coffee only
+PER,2011,19.45,1633.49,coffee only
+PER,2012,19.63,1503.31,coffee only
+PER,2013,19.28,1605.18,coffee only
+PER,2014,19.67,1573.1,coffee only
+PER,2015,20.2,1575.91,coffee only
+PER,2016,20.11,1510.55,coffee only
+PER,2017,19.88,1725.86,coffee only
+PER,2018,19.57,1597.47,coffee only
+PER,2019,19.6,1745.83,coffee only
+PER,2020,19.81,1302.93,coffee only
+PER,2021,19.65,1516.64,coffee only
+PER,2022,19.53,1234.41,coffee only
+PER,2023,20.93,1472.94,coffee only
+PER,2024,20.17,1408.98,coffee only
+RWA,2000,19.3,1070.2,tea only
+RWA,2001,19.35,1371.16,tea only
+RWA,2002,19.62,1164.36,tea only
+RWA,2003,19.61,1212.18,tea only
+RWA,2004,19.36,848.18,tea only
+RWA,2005,19.36,973.68,tea only
+RWA,2006,19.24,1311.35,tea only
+RWA,2007,19.28,1285.08,tea only
+RWA,2008,19.17,1092.57,tea only
+RWA,2009,19.61,1210.31,tea only
+RWA,2010,19.6,1337.53,tea only
+RWA,2011,19.17,1379.66,tea only
+RWA,2012,19.02,1085.72,tea only
+RWA,2013,19.2,1208.98,tea only
+RWA,2014,19.01,1190.83,tea only
+RWA,2015,19.07,1237.82,tea only
+RWA,2016,19.32,1233.03,tea only
+RWA,2017,19.45,1122.57,tea only
+RWA,2018,19.07,1127.87,tea only
+RWA,2019,19.28,1346.05,tea only
+RWA,2020,19.13,1350.25,tea only
+RWA,2021,19.21,1206.25,tea only
+RWA,2022,19.17,1372.0,tea only
+RWA,2023,19.51,1210.38,tea only
+RWA,2024,18.91,1310.71,tea only
+TUR,2000,11.36,563.05,tea only
+TUR,2001,12.32,611.58,tea only
+TUR,2002,11.38,615.12,tea only
+TUR,2003,11.4,641.76,tea only
+TUR,2004,11.4,558.93,tea only
+TUR,2005,11.52,595.17,tea only
+TUR,2006,11.4,585.65,tea only
+TUR,2007,11.9,554.74,tea only
+TUR,2008,11.75,455.52,tea only
+TUR,2009,11.84,723.68,tea only
+TUR,2010,13.13,653.84,tea only
+TUR,2011,11.08,628.84,tea only
+TUR,2012,12.03,714.35,tea only
+TUR,2013,11.86,529.1,tea only
+TUR,2014,12.45,634.66,tea only
+TUR,2015,11.8,653.69,tea only
+TUR,2016,12.13,649.72,tea only
+TUR,2017,11.93,536.67,tea only
+TUR,2018,13.04,700.17,tea only
+TUR,2019,12.49,602.54,tea only
+TUR,2020,12.64,552.36,tea only
+TUR,2021,12.56,559.24,tea only
+TUR,2022,12.24,536.14,tea only
+TUR,2023,12.93,658.17,tea only
+TUR,2024,13.16,569.47,tea only
+TZA,2000,22.74,867.52,tea only
+TZA,2001,22.86,906.92,tea only
+TZA,2002,23.0,1093.99,tea only
+TZA,2003,23.21,768.19,tea only
+TZA,2004,22.79,980.3,tea only
+TZA,2005,23.05,760.62,tea only
+TZA,2006,22.75,1137.01,tea only
+TZA,2007,22.76,919.95,tea only
+TZA,2008,22.58,914.57,tea only
+TZA,2009,22.92,919.28,tea only
+TZA,2010,23.13,861.89,tea only
+TZA,2011,22.74,979.66,tea only
+TZA,2012,22.73,792.67,tea only
+TZA,2013,22.88,949.08,tea only
+TZA,2014,22.83,924.77,tea only
+TZA,2015,22.97,956.85,tea only
+TZA,2016,23.12,1077.41,tea only
+TZA,2017,23.17,941.23,tea only
+TZA,2018,22.76,1035.86,tea only
+TZA,2019,23.09,1145.97,tea only
+TZA,2020,22.99,1232.57,tea only
+TZA,2021,22.96,960.6,tea only
+TZA,2022,22.86,996.74,tea only
+TZA,2023,23.21,1112.32,tea only
+TZA,2024,23.02,1180.08,tea only
+UGA,2000,23.22,1145.67,both
+UGA,2001,23.43,1248.31,both
+UGA,2002,23.73,1259.01,both
+UGA,2003,23.61,1216.99,both
+UGA,2004,23.67,1166.02,both
+UGA,2005,23.64,1072.85,both
+UGA,2006,23.54,1302.27,both
+UGA,2007,23.58,1432.17,both
+UGA,2008,23.52,1244.06,both
+UGA,2009,24.04,1191.46,both
+UGA,2010,23.81,1380.93,both
+UGA,2011,23.39,1350.91,both
+UGA,2012,22.97,1382.4,both
+UGA,2013,23.09,1437.47,both
+UGA,2014,23.02,1187.98,both
+UGA,2015,23.06,1330.94,both
+UGA,2016,23.29,1296.42,both
+UGA,2017,23.19,1401.03,both
+UGA,2018,22.96,1292.06,both
+UGA,2019,23.18,1599.44,both
+UGA,2020,23.2,1473.03,both
+UGA,2021,23.13,1381.83,both
+UGA,2022,23.17,1405.42,both
+UGA,2023,23.54,1298.23,both
+UGA,2024,23.12,1246.19,both
+VNM,2000,24.5,1722.38,both
+VNM,2001,24.71,1929.45,both
+VNM,2002,24.81,1890.97,both
+VNM,2003,24.85,1629.0,both
+VNM,2004,24.62,1623.19,both
+VNM,2005,24.8,1817.57,both
+VNM,2006,24.92,1753.31,both
+VNM,2007,24.67,1799.9,both
+VNM,2008,24.23,1959.55,both
+VNM,2009,24.81,1632.36,both
+VNM,2010,25.05,1620.88,both
+VNM,2011,24.17,1861.77,both
+VNM,2012,24.92,1920.31,both
+VNM,2013,24.69,1900.53,both
+VNM,2014,24.87,1679.8,both
+VNM,2015,25.26,1744.73,both
+VNM,2016,25.16,1796.3,both
+VNM,2017,24.81,1885.46,both
+VNM,2018,24.8,1791.18,both
+VNM,2019,25.38,1639.96,both
+VNM,2020,25.2,1684.26,both
+VNM,2021,25.0,1800.75,both
+VNM,2022,24.72,1778.7,both
+VNM,2023,25.49,1773.04,both
+VNM,2024,25.54,1798.84,both
