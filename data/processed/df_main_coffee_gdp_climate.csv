@@ -1,4 +1,4 @@
-Country_ISO3,Year,Area_Harvest_Ha,Production_Ton,Production_Kg_Ha,Crop_Type,Country_Name,GDP_Per_Capita,Temperature,Precipitation,Crop_Dominance
+Country_ISO3,Year,Area_Harvest_Ha,Production_Ton,Yield_Kg_Ha,Crop_Type,Country_Name,GDP_Per_Capita,Temperature,Precipitation,Crop_Dominance
 BRA,2000,2267968.0,1903562.0,839.3,Coffee,Brazil,3766.54786339835,25.12,1955.68,coffee only
 BRA,2001,2336031.0,1819569.0,778.9,Coffee,Brazil,3176.28975052524,25.4,1773.52,coffee only
 BRA,2002,2370891.0,2610524.0,1101.1,Coffee,Brazil,2855.94017137049,25.67,1810.1,coffee only

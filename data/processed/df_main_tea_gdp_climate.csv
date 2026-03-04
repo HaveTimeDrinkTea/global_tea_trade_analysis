@@ -1,4 +1,4 @@
-Country_ISO3,Year,Area_Harvest_Ha,Production_Ton,Production_Kg_Ha,Crop_Type,Country_Name,GDP_Per_Capita,Temperature,Precipitation,Crop_Dominance
+Country_ISO3,Year,Area_Harvest_Ha,Production_Ton,Yield_Kg_Ha,Crop_Type,Country_Name,GDP_Per_Capita,Temperature,Precipitation,Crop_Dominance
 ARG,2000,38620.0,323000.0,8363.5,Tea,Argentina,7637.01489203628,14.45,721.03,tea only
 ARG,2001,37420.0,309000.0,8257.6,Tea,Argentina,7141.47507662826,15.08,716.55,tea only
 ARG,2002,36400.0,306000.0,8406.6,Tea,Argentina,2569.69963519124,14.84,757.75,tea only
