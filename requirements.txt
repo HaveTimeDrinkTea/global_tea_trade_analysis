@@ -67,10 +67,13 @@ notebook_shim==0.2.4
 numpy==2.4.2
 packaging==26.0
 pandas==3.0.1
+pandas-flavor==0.8.1
 pandocfilters==1.5.1
 parso==0.8.6
+patsy==1.0.2
 pexpect==4.9.0
 pillow==12.1.1
+pingouin==0.6.0
 platformdirs==4.9.2
 plotly==6.6.0
 prometheus_client==0.24.1
@@ -99,6 +102,7 @@ setuptools==82.0.0
 six==1.17.0
 soupsieve==2.8.3
 stack-data==0.6.3
+statsmodels==0.14.6
 tabulate==0.9.0
 terminado==0.18.1
 threadpoolctl==3.6.0
@@ -115,3 +119,4 @@ webcolors==25.10.0
 webencodings==0.5.1
 websocket-client==1.9.0
 widgetsnbextension==4.0.15
+xarray==2026.2.0
