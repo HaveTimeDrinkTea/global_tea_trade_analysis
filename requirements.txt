@@ -74,6 +74,7 @@ patsy==1.0.2
 pexpect==4.9.0
 pillow==12.1.1
 pingouin==0.6.0
+pipeline==0.1.0
 platformdirs==4.9.2
 plotly==6.6.0
 prometheus_client==0.24.1
