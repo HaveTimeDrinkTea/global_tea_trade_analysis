@@ -254,8 +254,8 @@ MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg
   * [The Royal Statistical Society's Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/docs/choosing.html)
 * Deepseek for
   * Project brainstorming
+  * helping me to understand the data that is used for the analysis (e.g. nominal GDP for comparing within years)
   * being my Python and Pandas tutor and for helping to resolve code errors
-  * Assist in using Plotly Express (especially for trying to put tiny Singapore on their map!)
  
 
 # Contributions
