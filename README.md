@@ -1,51 +1,94 @@
-# 🍵 🌱 The Climate & Economic Recipe for Tea: A Geospatial Analysis with Competitive &amp; Optimal Zone Insights
-This repository contains a data analysis project for the Code Institute Data Analytics with AI bootcamp. It seeks to look at if tea yield as a factor of climate and GDP and also whether a country's choice of dominant crop (tea vs Coffee) is also a factor of climate and GDP. The project aims to include a regresson model to predict tea yield based on climate and GDP levels.
+# 🍵 🌱 The Climate & Economic Recipe for Tea: A Geospatial Analysis of Global Tea Yield Drivers
+This repository contains a capstone project for the Code Institute Data Analytics with AI bootcamp. This project is built with Python with Pandas and scikit-learn in Jupyter Notebooks and Tableau.
 
-The project uses data from:
-* [Food and Agriculture Organization of the United Nations](https://www.fao.org/faostat/en/#data/QCL)
-* WorldBank climate and Economic data via the wgapi package
+This project include the following:
+* ETL and EDA Pipeline,
+* Hypothesis Testing
+* Linear regression models
+* Interactive Tableau featuring geospatial map, statistical visualizations, and machine learning insights. 
 
 # Project Description
-For decades, ... 
+As a trained tea aritsan and certified tea assessor from China, I have long been fascinated by how terroir, climate and economics shape the world's tea trade. 
 
+This capstone project brings together my professional passion and data analytics skills to investigate the factors driving tea yied across the world's top 15 tea producing nations. I have built an ETL pipeline in Python to explore the data. I tested two hypothesis on climate and economic impact and also built linear regression models to predict tea yields. I also have created an interactive Tableau dashboard to visualise and exlpore these my findings. 
 
+While this analysis focuses on climate and economic factors, it acknowledges that tea yield is influenced by many other determinants. 
 
-This project aims to start on a data trail to see .... 
+The project uses data from:
+* Food and Agriculture Organization of the United Nations
+* WorldBank Climate and Economic data via their Climate Change Knowledge Portal (CCKP) and the wgapi package repectively.
+
 
 ## Project Links
 * [Github repo](https://github.com/HaveTimeDrinkTea/global_tea_trade_analysis)
-* [Google slides](?)
-* [Kanban Board on Trello](??)
+* Interactive Tableau Dashboard on [Tableau Public](https://public.tableau.com/app/profile/pei.wang1891/viz/Global_Tea_Trade_Dashboard/GlobalTeaTradeDashboard) or via (download the Global_Tea_Trade_Dashboard.twb)[https://github.com/HaveTimeDrinkTea/global_tea_trade_analysis/tree/main/dashboard]
+* [Kanban Board on GitHub](https://github.com/users/HaveTimeDrinkTea/projects/2)
 
 
 # Questions & Hypothesis
 
-## Hypothesis
-* ***The Korean wave of entertainment leads the world on a Korean language learning journey.***
+The underlying data analystics question for this project is 
+>
+> _**Can we model and predict tea yields from climate and economic factors in a linear regression model?**_
+>
+From this primary question, I have derived the following hypothesis which
 
-## Questions
-* Part 1 
+## Hypothesis 1 (MVP)
+>
+> _**The average tea yield is the same in cool vs hot climate?**_
+>
+## Hypothesis 2 (MVP)
+>
+> _**The average tea yield is the same in nations with low vs high GDP per capita?**_
+>
 
+In additional to the primary machine learning question, this project is also interested in the followinfg complementary data analytics question:
+>
+> _** Can we predict whether a country is tea-dominant or coffee-dominant?**_
+> 
 
-# Business Impact & Applications for Language Learning / Streaming Platforms
-* 
+## Hypothesis 3: (Could Have)
+>
+> _**There is no association between climate zone (cool/hot) and whether a country is a tea-dominant or coffee-dominant crop country.**_
+>
+
+# Potential Business Impacts & Applications of this Project
+* For Tea importors / Buyer 
+  * Armed with the knowledge of which cimate and GDP 
 
 
 # Data Sources
 The project uses data from:
 * [Food and Agriculture Organization of the United Nations](https://www.fao.org/faostat/en/#data/QCL)
-* WorldBank climate and Economic data via the wgapi package
+* WorldBank Economic data via the [wgapi package](https://pypi.org/project/wbgapi/)
+* WorldBank Climate data via their [Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/download-data)
 
 
 # Results & Findings  
 * Part 1 
 
 
-# Conclusion & Limitations
+
+
+
+# Conclusion 
 The 
+
+# Limitations
+* Choice and availablity of data 
+  * While this analysis focuses on climate and economic factors, it acknowledges that tea yield is influenced by many other determinants such as the specific tea cultivars, terror (as a function of climate and soil conditions), skills of the tea growers and the feedback from the tea artisans, farming practices (as a function of agricultural methods and equipment and pest controls etc.)
+  * As such, it important to note that  
+    * the use of nationally aggregated data (temperature and precipitation) which inevitably masked within-country and/or within region variations.
+    * the impact of the various tea plants cultivars, pest control implementation, soil quality, argriculture practices and the levels of government subsidies and support are not considered.
+    * the use of nominal GDP per capita which does not allow cross-year comparisions.
+* Model performance:
+    
+
+
 
 
 # Further Works
+* To use GDP per capita (PPP in constant International $) instead of the Nominal GDP per capita used in this project to allow comparision across year. This valuation of GDP accounts for differences in cost of living (inflation) or purchasing power of national currencies between countries and can also be compared across years.
 * Colonial impact
 
 
