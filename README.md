@@ -198,6 +198,7 @@ I hope that through this project, I have showed case its true objective and that
   * World Bank's Economic data [02_ETL_WorldBank.ipynb](notebooks/01_ETL_WorldBank.ipynb)
   * World Bank's Climate data [04_ETL_WorldBank_precipitation](notebooks/04_ETL_WorldBank_precipitation.ipynb) and [04_ETL_WorldBank_temperature](notebooks/04_ETL_WorldBank_temperature.ipynb)
   * ETL for data for Hypothesis [05_Prepare_Data_For_Hypothesis](notebooks/05_Prepare_Data_For_Hypothesis.ipynb)
+* For hypotheses testings [06_Hypothesis_Testings](notebooks/06_Hypothesis_Testings.ipynb)
 * For Linear Regression [07_Linear_Regression.ipynb](notebooks/07_Linear_Regression.ipynb)
 
 
